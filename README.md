@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # birthdaysPackage
 =======
 ## Implementation of a Birthday reminder
